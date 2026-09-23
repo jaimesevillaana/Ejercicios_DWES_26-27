@@ -1,3 +1,8 @@
+/*
+Al no especificar si el número que se repite (en el caso de que lo haya) cuenta como oportunidad,
+he supuesto que si...
+*/
+
 let numero = Number(prompt("Introduce el número a adivinar: "));
 let oportunidades = 5;
 let intentoNumero;
